@@ -31,7 +31,7 @@ Acredito que esse projeto pode ser útil para todas as pessoas na comunidade do 
 
 Fiz duas versões de código em python. A primeira é mais simples e que faz total sentido com a aula 5, rodando exclusivamente no Google Colab com a api_key do Gemini configurada devidamente no secrets. Já a segunda versão tem a interface da bilioteca Gradio, a fim de tornar a experiência mais inclusiva possível. Ambos os códigos estão devidamente comentados para ajudar em qualquer manutenção ou contribuição de outros devs.
 
-Nos meus testes, o modelo generativo que fez mais sentido (mesmo que leve um certo delay na resposta por conta da cadeia de pensamento) foi o `gemini-2.5-flash-preview-04-17-thinking`. 
+Nos meus testes, o modelo generativo que fez mais sentido (mesmo que leve um certo delay na resposta por conta da cadeia de pensamento) foi o `gemini-2.5-flash-preview-04-17-thinking`. Nos meus testes percebi raros erros na saída, que entendi que foi na sincronização da função call_agent. Acredito que foi pelo fato de eu estar utilizando duas abas do Google Colab. 
 
 Sobre os agentes inteligentes utilizados nos códigos, segue a explicação de cada um e o que faz: 
 
@@ -53,6 +53,7 @@ Laura Code é uma professora de tecnologia de 37 anos, didática e inspirada pel
 ### Hash Tag - estrategista digital, especialista em LinkedIn
 
 Hash Tag é uma estrategista digital de 26 anos, especialista em LinkedIn e Top Voice em tecnologia. No projeto, ela orienta o usuário a otimizar seu perfil no LinkedIn para as 3 vagas em foco, detalhando seções como foto, headline e experiências. Hash Tag também sugere 3 temas de posts para aumentar a visibilidade do usuário na rede, indica 5 perfis influentes para seguir, visando networking e melhora do SSI (Social Selling Index), e finaliza com uma mensagem de encorajamento.
+
 
 > [!NOTE]
 > Sim, os nomes foram propositais para fazer pequenas referências ao que cada um faz. O do Carlos é bem óbvio, pois tem o sobrenome 'Acha', levando em consideração que ele busca vagas. Escolhi Sofia porque significa sabedoria e o sobrenome Leme na intenção dela saber conduzir o leme e evitar águas turbulentas, ajudando seus mentorados (cito algo desse tipo no prompt inclusive). Já a Laura é um anagrama de Alura, sendo que o sobrenome Code é código em inglês. Por fim, a Hash Tag é mais óbvia ainda, pois vem de hashtag, recurso muito conhecido em redes sociais.
