@@ -54,6 +54,9 @@ Laura Code é uma professora de tecnologia de 37 anos, didática e inspirada pel
 
 Hash Tag é uma estrategista digital de 26 anos, especialista em LinkedIn e Top Voice em tecnologia. No projeto, ela orienta o usuário a otimizar seu perfil no LinkedIn para as 3 vagas em foco, detalhando seções como foto, headline e experiências. Hash Tag também sugere 3 temas de posts para aumentar a visibilidade do usuário na rede, indica 5 perfis influentes para seguir, visando networking e melhora do SSI (Social Selling Index), e finaliza com uma mensagem de encorajamento.
 
+Para entender melhor a dinâmica desses agentes, eu gerei um podcast com o NotebookLM para explicar ainda melhor o projeto, assim como o Fabrício usou na masterclass antes da imersão:
+[Projeto - Procurando Vaga - Podcast](https://notebooklm.google.com/notebook/56436633-b44e-41f2-96a8-7b1dab162e46/audio)
+
 
 > [!NOTE]
 > Sim, os nomes foram propositais para fazer pequenas referências ao que cada um faz. O do Carlos é bem óbvio, pois tem o sobrenome 'Acha', levando em consideração que ele busca vagas. Escolhi Sofia porque significa sabedoria e o sobrenome Leme na intenção dela saber conduzir o leme e evitar águas turbulentas, ajudando seus mentorados (cito algo desse tipo no prompt inclusive). Já a Laura é um anagrama de Alura, sendo que o sobrenome Code é código em inglês. Por fim, a Hash Tag é mais óbvia ainda, pois vem de hashtag, recurso muito conhecido em redes sociais.
@@ -68,6 +71,7 @@ Hash Tag é uma estrategista digital de 26 anos, especialista em LinkedIn e Top 
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/76e7aca0-5321-4238-9742-164c20af5b4a" />&nbsp;&nbsp;&nbsp
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/7897cf9f-0349-4e05-afe8-65554fc49ecc" />&nbsp;&nbsp;&nbsp
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/2c10cdff-b632-4ccf-bf8a-f2a33690e9a7" />&nbsp;&nbsp;&nbsp
+  <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/89dabd72-84ca-4a4c-b73a-45602d6b62a8" />&nbsp;&nbsp;&nbsp
     
 </div>
 
