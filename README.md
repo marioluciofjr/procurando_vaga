@@ -67,6 +67,7 @@ Hash Tag é uma estrategista digital de 26 anos, especialista em LinkedIn e Top 
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/0324b2d2-c9f4-4c2e-ba62-703a7f346de6" />&nbsp;&nbsp;&nbsp
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/76e7aca0-5321-4238-9742-164c20af5b4a" />&nbsp;&nbsp;&nbsp
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/7897cf9f-0349-4e05-afe8-65554fc49ecc" />&nbsp;&nbsp;&nbsp
+  <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/2c10cdff-b632-4ccf-bf8a-f2a33690e9a7" />&nbsp;&nbsp;&nbsp
     
 </div>
 
@@ -161,6 +162,9 @@ Abaixo você terá um checklist básico para executar o projeto tanto no Google 
 > Ao executar a 11ª célula, você vai perceber que a interface aparece logo embaixo, mas você pode clicar no link gerado ma parte "Running on public URL"
 > 
 > ![Image](https://github.com/user-attachments/assets/6429ac15-0f9d-4459-ab89-277955411a47)
+>
+> Para facilitar a vida, eu também fiz deploy do projeto no Hugging Face: 
+> [procurando_vaga](https://huggingface.co/spaces/marioluciofjr/procurando_vaga)
 
 ## Links úteis
 
