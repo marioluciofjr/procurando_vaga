@@ -54,7 +54,7 @@ Laura Code é uma professora de tecnologia de 37 anos, didática e inspirada pel
 
 Hash Tag é uma estrategista digital de 26 anos, especialista em LinkedIn e Top Voice em tecnologia. No projeto, ela orienta o usuário a otimizar seu perfil no LinkedIn para as 3 vagas em foco, detalhando seções como foto, headline e experiências. Hash Tag também sugere 3 temas de posts para aumentar a visibilidade do usuário na rede, indica 5 perfis influentes para seguir, visando networking e melhora do SSI (Social Selling Index), e finaliza com uma mensagem de encorajamento.
 
-Para entender melhor a dinâmica desses agentes, eu gerei um podcast com o NotebookLM para explicar ainda melhor o projeto, assim como o Fabrício usou na masterclass antes da imersão:
+Para entender melhor a dinâmica desses agentes, eu gerei um podcast com o NotebookLM para explicar ainda melhor o projeto, assim como o instrutor Fabrício Carraro usou na masterclass antes da imersão:
 [Projeto - Procurando Vaga - Podcast](https://notebooklm.google.com/notebook/56436633-b44e-41f2-96a8-7b1dab162e46/audio)
 
 
