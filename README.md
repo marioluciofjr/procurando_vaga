@@ -123,7 +123,7 @@ Abaixo você terá um checklist básico para executar o projeto tanto no Google 
 ### Versão [`procurando_vaga.ipynb`](https://github.com/marioluciofjr/procurando_vaga/blob/main/procurando_vaga.ipynb)
 
 - [ ] Obter a API_KEY no Google AI Studio
-- [ ] Clicar no botão ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) dentro do arquivo [`procurando_vaga.ipynb`](https://github.com/marioluciofjr/procurando_vaga/blob/main/procurando_vaga.ipynb)
+- [ ] Clicar no botão [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marioluciofjr/procurando_vaga/blob/main/procurando_vaga.ipynb) dentro do arquivo [`procurando_vaga.ipynb`](https://github.com/marioluciofjr/procurando_vaga/blob/main/procurando_vaga.ipynb)
 - [ ] Configurar a API_KEY em 'Secrets' no Google Colab.
 - [ ] Executar a 1ª célula do código (Instalação do ADK)
 - [ ] Executar a 2ª célula do código (Importação dos pacotes necessários)
@@ -140,7 +140,7 @@ Abaixo você terá um checklist básico para executar o projeto tanto no Google 
 ### Versão [`procurando_vaga_gradio.ipynb`](https://github.com/marioluciofjr/procurando_vaga/blob/main/procurando_vaga_gradio.ipynb)
 
 - [ ] Obter a API_KEY no Google AI Studio
-- [ ] Clicar no botão ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) dentro do arquivo [`procurando_vaga_gradio.ipynb`](https://github.com/marioluciofjr/procurando_vaga/blob/main/procurando_vaga_gradio.ipynb)
+- [ ] Clicar no botão [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/marioluciofjr/procurando_vaga/blob/main/procurando_vaga_gradio.ipynb) dentro do arquivo [`procurando_vaga_gradio.ipynb`](https://github.com/marioluciofjr/procurando_vaga/blob/main/procurando_vaga_gradio.ipynb)
 - [ ] Executar a 1ª célula do código (Instalação do ADK)
 - [ ] Executar a 2ª célula do código (Importação dos pacotes necessários)
 - [ ] Executar a 3ª célula do código (Configurando para não usar VERTEX AI)
