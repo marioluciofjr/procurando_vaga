@@ -165,6 +165,9 @@ Abaixo você terá um checklist básico para executar o projeto tanto no Google 
 >
 > Para facilitar a vida, eu também fiz deploy do projeto no Hugging Face: 
 > [procurando_vaga](https://huggingface.co/spaces/marioluciofjr/procurando_vaga)
+>
+> Caso queria ver como funciona a interface no Hugging Face, eu gravei um video no Google Vids mostrando:
+> [Tutorial_interface](https://docs.google.com/videos/d/1_vogYb712XHLXBotWxVOZzEY029vC0Hm-kOl3EAFEWY/edit?usp=sharing)
 
 ## Links úteis
 
