@@ -31,7 +31,7 @@ Acredito que esse projeto pode ser útil para todas as pessoas na comunidade do 
 
 Fiz duas versões de código em python. A primeira é mais simples e que faz total sentido com a aula 5, rodando exclusivamente no Google Colab com a api_key do Gemini configurada devidamente no secrets. Já a segunda versão tem a interface da bilioteca Gradio, a fim de tornar a experiência mais inclusiva possível. Ambos os códigos estão devidamente comentados para ajudar em qualquer manutenção ou contribuição de outros devs.
 
-Nos meus testes, o modelo generativo que fez mais sentido (mesmo que leve um certo delay na resposta por conta da cadeia de pensamento) foi o `gemini-2.5-flash-preview-04-17-thinking`. Nos meus testes percebi raros erros na saída, que entendi que foi na sincronização da função call_agent. Acredito que foi pelo fato de eu estar utilizando duas abas do Google Colab. 
+Nos meus testes, o modelo generativo que fez mais sentido (mesmo que leve um certo delay na resposta por conta da cadeia de pensamento) foi o `gemini-2.5-flash-preview-04-17-thinking`. Nos meus testes percebi raros erros na saída, que entendi que foi na sincronização da função call_agent. Acredito que foi pelo fato de eu estar utilizando duas abas do Google Colab. No Hugging Face deixei o modelo `gemini-2.0-flash` para apresentar melhor durante a votação.
 
 Sobre os agentes inteligentes utilizados nos códigos, segue a explicação de cada um e o que faz: 
 
